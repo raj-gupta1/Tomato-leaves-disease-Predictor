@@ -1,0 +1,5 @@
+Flask==1.1.4
+numpy==1.19.5
+#tensorflow-cpu==2.7.0
+tensorflow==2.6.0
+Werkzeug==1.0.1
